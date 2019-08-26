@@ -5,8 +5,8 @@ Hi! My name is Vitaly.
 
 *I need to remember:* 
 1. No pain no gain
-2. Embrace challenges
-3. Persist.
+2. To embrace challenges
+3. To Persist.
 
 You can read more on:
 
