@@ -11,6 +11,7 @@ According to Joe Belli, text editors should be chosen based on the following cri
 Although every computer comes with pre-built text editors, these text editors don't have any features that make the work of developers efficient. There are a lot of factors to consider, like saving in the right folder or with the right extension. The pre-built text editors don't offer any help in editing or finding mistakes.
 
 Joe Belli suggests using a third-party tools. He suggests the following editors:
+
 -Notepad++
 
 -Text Wrangler
@@ -22,3 +23,7 @@ Joe Belli suggests using a third-party tools. He suggests the following editors:
 -Atom, Bracket
 
 -Sublime Text
+
+Some editors are free, some are not. Many have similar features, some have unique features. It all depends on personal preferences. 
+
+# Basic Terminal Usage
