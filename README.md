@@ -6,5 +6,5 @@ Remember:
 2. Embrace challenges
 3. Persist.
 
-!C:\Users\islan\Desktop\NewGrowthMindset2.png)
-Format: ![Alt Text](url)
+!C:/Users/islan/Desktop/NewGrowthMindset2.png)
+
