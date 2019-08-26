@@ -8,7 +8,7 @@ Markdown is a lightweight markup language used to style text on the web and is a
  ### For example, this text uses \###
  
 -You can include links:
- [Growth Mindset website](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) by typing the url: ex :\https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+ https://www.codefellows.org/
  
  -You can even do emojis: 
 :sunglasses:
