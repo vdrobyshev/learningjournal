@@ -6,6 +6,6 @@ Remember:
 2. Embrace challenges
 3. Persist.
 
-:
+You can read more on:
 
-[GitHub Logo](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
