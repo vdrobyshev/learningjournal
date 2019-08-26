@@ -26,5 +26,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 # **GROWTH MINDSET**
-Growth mindset is...
+Growth mindset is a learning concept that doesn't rely on talent and intelligence as the main tools in learning. Perseverance and effort are the primary requirements for successful learning. Challenges, obstacles, and mistakes are unique learning opportunities and not roadblocks.
 
