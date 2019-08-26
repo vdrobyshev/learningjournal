@@ -11,3 +11,8 @@ Remember:
 You can read more on:
 
 [Atlassian website](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+Here is a link to my GitHub portfolio page:
+
+https://vdrobyshev.github.io/learningjournal/
