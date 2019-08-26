@@ -6,8 +6,5 @@ Remember:
 2. Embrace challenges
 3. Persist.
 
-C:\Users\islan\Desktop\NewGrowthMindset2
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-![GitHub Logo](C:\Users\islan\Desktop\NewGrowthMindset2.png)
+!C:\Users\islan\Desktop\NewGrowthMindset2.png)
 Format: ![Alt Text](url)
