@@ -7,6 +7,10 @@ Markdown is a lightweight markup language used to style text on the web and is a
 -To create a headline, insert # in front of the text. You can use #, ##, or ### to control the thinkness.
  ### For example, this text uses \###
  
+-To emphasize the text, insert the word between \* * 
+
+ex: This word is *Emphasized*
+
 -You can include weblinks:
  [code fellows](https://www.codefellows.org/)
  
