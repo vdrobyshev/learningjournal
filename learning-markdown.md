@@ -22,7 +22,6 @@ ex: This word is *Emphasized*
 * Item 4
  
  -You can even do emojis: 
- 
+  
 :sunglasses:
-
 
