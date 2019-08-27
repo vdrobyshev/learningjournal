@@ -17,3 +17,5 @@ Here is a link to my GitHub portfolio page:
 
 https://vdrobyshev.github.io/learningjournal/
 
+![pic](C:\Users\islan\Desktop\NewGrowthMindset2)
+
