@@ -15,6 +15,6 @@ You can read more on:
 
 Here is a link to my GitHub portfolio page:
 
-https://vdrobyshev.github.io/learningjournal/
+(https://vdrobyshev.github.io/learningjournal/)
 
 
