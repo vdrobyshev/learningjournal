@@ -4,7 +4,7 @@
 
 ### Thank you for visiting.
 
-https://vdrobyshev.github.io/learningjournal/
+https://vdrobyshev.github.io/learningjournal/GrowthMindset
 
 https://vdrobyshev.github.io/learningjournal/learning-markdown
 
