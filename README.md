@@ -9,3 +9,5 @@ https://vdrobyshev.github.io/learningjournal/
 https://vdrobyshev.github.io/learningjournal/learning-markdown
 
 https://vdrobyshev.github.io/learningjournal/texteditor
+
+https://vdrobyshev.github.io/learningjournal/CloningRepo
