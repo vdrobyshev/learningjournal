@@ -29,4 +29,13 @@ Some editors are free, some are not. Many have similar features, some have uniqu
 # Basic Terminal Usage
 
 A command is followed by command line arguments. All of them are separated by spaces.
+
 -Pwd (print working directory)--says what the current or present working directory is.
+
+-ls. Tells us what is in the directory. 'ls -l' does the long listing. 'ls -l /etc' doesn't list the current directory but instead lists that directories contents.
+
+~ (tilde) s a shortcut for the home directory
+
+. (dot) is a reference to the current directory
+
+.. (dotdot) is a reference to the parent directory
