@@ -19,5 +19,7 @@ https://vdrobyshev.github.io/
 
 My other pages:
 
-https://vdrobyshev.github.io/learningjournal/learning-markdown.md
+https://vdrobyshev.github.io/learningjournal/learning-markdown
+
+https://vdrobyshev.github.io/learningjournal/texteditor
 
