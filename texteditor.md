@@ -39,3 +39,6 @@ A command is followed by command line arguments. All of them are separated by sp
 . (dot) is a reference to the current directory
 
 .. (dotdot) is a reference to the parent directory
+
+-cd [location]--change location or home if there are no arguments
+
