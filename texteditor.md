@@ -27,3 +27,7 @@ Joe Belli suggests using a third-party tools. He suggests the following editors:
 Some editors are free, some are not. Many have similar features, some have unique features. It all depends on personal preferences. 
 
 # Basic Terminal Usage
+
+*list
+*is 
+Unordfed
