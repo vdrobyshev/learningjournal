@@ -28,6 +28,5 @@ Some editors are free, some are not. Many have similar features, some have uniqu
 
 # Basic Terminal Usage
 
-*list
-*is 
-Unordfed
+A command is followed by command line arguments. All of them are separated by spaces.
+-Pwd (print working directory)--says what the current or present working directory is.
