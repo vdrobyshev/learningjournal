@@ -17,6 +17,6 @@ Here is a link to my GitHub portfolio page:
 
 https://vdrobyshev.github.io/
 
-
+My other pages:
 https://vdrobyshev.github.io/learningjournal/learning-markdown.md
 
