@@ -18,15 +18,15 @@ Html pages all have very similar structure. It consists of several elements. Eac
 
 ex: \<h2>content\</h2>
 
- The largest tags of every page are \<html> and \<body>. Inside the body verious tags can be located. Additional attributes (consisting of a name and a value) can be positioned on the opening tag to provide additional information about the content.
+ The largest tags of every page are \<html>, \<header>,  \<body>, \<main>, and \<footer>. Inside the body various tags can be located. Additional attributes (consisting of a name and a value) can be positioned on the opening tag to provide additional information about the content.
 
 ex: \<p lang="en-us">content\</p>
 
 
 ## HTML 5 layout
 
-HTML 5 introduced a new set of elements for dividing the page. For example, the header sits inside a new \<header>  element. the navigation is inside the \<nav>, and the articles are inside the \<article> elements. 
+HTML 5 introduced a new set of elements for dividing the page. For example, the header sits inside a new \<header> element. The navigation is inside the \<nav>,and the articles are inside the \<article> elements. 
 
-## Some helpful tags
+
 
 
