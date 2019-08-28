@@ -4,10 +4,14 @@
 
 ### Thank you for visiting.
 
-https://vdrobyshev.github.io/learningjournal/GrowthMindset
+[Growth Mindset](https://vdrobyshev.github.io/learningjournal/GrowthMindset)
 
-https://vdrobyshev.github.io/learningjournal/learning-markdown
+[Learning Markdown](https://vdrobyshev.github.io/learningjournal/learning-markdown)
 
-https://vdrobyshev.github.io/learningjournal/texteditor
+[Text Editors](https://vdrobyshev.github.io/learningjournal/texteditor)
 
-https://vdrobyshev.github.io/learningjournal/CloningRepo
+[Cloning Repo](https://vdrobyshev.github.io/learningjournal/CloningRepo)
+
+[Git Intro](https://vdrobyshev.github.io/learningjournal/GitIntro)
+
+[Web Page Design](https://vdrobyshev.github.io/learningjournal/WebPageDesign)
