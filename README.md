@@ -18,5 +18,5 @@
 
 [Intro to CSS](https://vdrobyshev.github.io/learningjournal/IntroToCSS)
 
-[Activate with JavaScript](https://vdrobyshev.github.io/learningjournal/JSActivate
-)
+
+[Expressions and Functions](https://vdrobyshev.github.io/learningjournal/JSFunctions)
