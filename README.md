@@ -16,4 +16,7 @@
 
 [Web Page Design](https://vdrobyshev.github.io/learningjournal/WebPageDesign)
 
-[INtro to CSS](https://vdrobyshev.github.io/learningjournal/IntroToCSS)
+[Intro to CSS](https://vdrobyshev.github.io/learningjournal/IntroToCSS)
+
+[Activate with JavaScript](https://vdrobyshev.github.io/learningjournal/JSActivate
+)
