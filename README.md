@@ -20,3 +20,5 @@
 
 
 [Expressions and Functions](https://vdrobyshev.github.io/learningjournal/JSFunctions)
+
+[How Computers Work](https://vdrobyshev.github.io/learningjournal/HowComputersWork)
